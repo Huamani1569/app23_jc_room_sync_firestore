@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238063548524",
+    "project_id": "app23-jc-room-sync-firestore",
+    "storage_bucket": "app23-jc-room-sync-firestore.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238063548524:android:e79f6a60adc28c9e398049",
+        "android_client_info": {
+          "package_name": "com.example.app23_jc_room_sync_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChn_pjVolUJaZeoXMWog1DRUws1G8dd7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
